@@ -102,7 +102,8 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>
-```<img width="960" alt="img1" src="https://user-images.githubusercontent.com/75234991/163917737-0ff22e18-480a-4d0a-9483-5c20adb53400.png">
+```
+<img width="960" alt="img1" src="https://user-images.githubusercontent.com/75234991/163917737-0ff22e18-480a-4d0a-9483-5c20adb53400.png">
 
 <img width="960" alt="img2" src="https://user-images.githubusercontent.com/75234991/163917741-a8b0bc06-5e5b-40f2-a788-05382315d221.png">
 <img width="960" alt="img3" src="https://user-images.githubusercontent.com/75234991/163917752-ad144660-b1ce-44d9-8b8b-42850b8ee166.png">
