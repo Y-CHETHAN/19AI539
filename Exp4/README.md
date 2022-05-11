@@ -1,8 +1,8 @@
-# Ex.No:4 Design an android application Send SMS using Intent.
+# Ex.No:4 Design an android application to send SMS using Intent.
 
 ## AIM:
 
-To create and design an android application Send SMS using Intent using Android Studio.
+To create and design an android application to send SMS using Intent using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
 
@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 
 ```
 /*
-Program to create and design an android application Send SMS using Intent.
+Program to create and design an android application tp send SMS using Intent.
 Developed by: Y Chethan
 Registeration Number : 212220230008
 */
