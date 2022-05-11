@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by: Y CHETHAN
+Developed by: Y Chethan
 Registeration Number : 212220230008
 */
 ```
