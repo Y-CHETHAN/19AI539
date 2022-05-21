@@ -24,6 +24,7 @@ Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
 
+<br><br><br><br><br><br><br>
 ## PROGRAM:
 ```
 /*
@@ -91,7 +92,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/75234991/169632150-d0bcbbb8-dc53-49e1-b1bd-fb837358d9ea.png)
+
 ![image](https://user-images.githubusercontent.com/75234991/169632311-e2c15ffd-5bf0-49a4-881b-2f04ab499c1c.png)
+
 ![image](https://user-images.githubusercontent.com/75234991/169632397-a39471a1-f649-471b-b2b3-cfdd8457ad97.png)
 
 ## RESULT:
