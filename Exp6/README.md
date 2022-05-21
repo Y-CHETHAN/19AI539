@@ -93,7 +93,11 @@ public class MainActivity extends AppCompatActivity {
 
 ![image](https://user-images.githubusercontent.com/75234991/169632311-e2c15ffd-5bf0-49a4-881b-2f04ab499c1c.png)
 
+![image](https://user-images.githubusercontent.com/75234991/169635106-7fae9386-3266-47ec-b176-78fb2438fdd3.png)
+
 ![image](https://user-images.githubusercontent.com/75234991/169632397-a39471a1-f649-471b-b2b3-cfdd8457ad97.png)
+
+![image](https://user-images.githubusercontent.com/75234991/169635114-e05f0f25-484e-4cb4-8b7d-1561b769e233.png)
 
 ## RESULT:
 Thus a Simple Android Application develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio is developed and executed successfully.
