@@ -24,6 +24,7 @@ Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## PROGRAM:
 ```
 /*
