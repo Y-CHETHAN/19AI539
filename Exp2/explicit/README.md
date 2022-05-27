@@ -6,11 +6,11 @@ To create a layout,click button, display factorial number using Explicit Intents
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min. required Artic Fox)
+Android Studio(Min. required Arctic Fox)
 
 ## ALGORITHM:
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “ex.no.2″ and click Next. 
 
@@ -20,7 +20,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: open google page using Implicit Intents and display factorial number using Explicit Intents in MainActivity file.
+Step 6: Display factorial number using Explicit Intents in MainActivity file.
 
 Step 7: Save and run the application.
 
@@ -139,8 +139,9 @@ public class MainActivity2 extends AppCompatActivity {
 ## OUTPUT:
 
 <img width="946" alt="output3" src="https://user-images.githubusercontent.com/75234991/163556914-3c732d73-3406-4ac6-a19d-23ce83a7c2f0.png">
+
 <img width="944" alt="output4" src="https://user-images.githubusercontent.com/75234991/163556932-fa1e79c6-6679-42ee-b713-53d1abfe94ec.png">
 
 ## RESULT:
 
-Thus a Simple Android Application to get user and display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
+Thus a Simple Android Application to get user input and display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
