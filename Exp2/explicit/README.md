@@ -1,5 +1,5 @@
 # Ex.No: 2b
-# Explicit Intent
+# Explicit Intents
 
 ## AIM:
 
