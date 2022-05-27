@@ -1,5 +1,5 @@
-# Ex.No:8 Build a program to show five checkboxes and toast selected checkboxes.
-
+# Ex.No: 8
+# Build a program to show five checkboxes and toast selected checkboxes.
 
 ## AIM:
 
@@ -25,7 +25,7 @@ Step 6: Display the list using checkbox in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 ## PROGRAM:
 ```
 /*
