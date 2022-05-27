@@ -148,6 +148,9 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
+
+<br><br><br><br><br>
+
 ## OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/75234991/170721601-14d9ac87-4a75-4ed9-a47a-ad42ad9c522f.png)
