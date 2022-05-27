@@ -24,7 +24,7 @@ Step 6: Open google page using Implicit Intents in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 
