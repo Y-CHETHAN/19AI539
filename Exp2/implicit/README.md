@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-<br>
+<br><br>
 
 #### activity_main.xml
 ```
