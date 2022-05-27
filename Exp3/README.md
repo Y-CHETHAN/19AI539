@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 #### AndroidManifest.xml
-```java
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.contentprovider">
@@ -141,6 +141,8 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 ```
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## OUTPUT:
 
