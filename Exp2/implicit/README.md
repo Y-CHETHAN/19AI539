@@ -6,11 +6,11 @@ To create a layout,click button,open google page using Implicit Intents in Andro
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min. required Artic Fox)
+Android Studio(Min. required Arctic Fox)
 
 ## ALGORITHM:
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “ex.no.2″ and click Next. 
 
@@ -20,7 +20,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: open google page using Implicit Intents and display factorial number using Explicit Intents in MainActivity file.
+Step 6: Open google page using Implicit Intents in MainActivity file.
 
 Step 7: Save and run the application.
 
@@ -115,6 +115,7 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 
 <img width="945" alt="output" src="https://user-images.githubusercontent.com/75234991/163556894-57072e63-5031-4fce-9b66-7a70cbb5c783.png">
+
 <img width="946" alt="output1" src="https://user-images.githubusercontent.com/75234991/163556907-224a0ea1-56e0-42b8-9412-c8c12bbd9b6e.png">
 
 
