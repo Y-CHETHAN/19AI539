@@ -31,7 +31,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to implement “Explicit Intents”.
-Developed by         : Y Chethan
+Developed by        : Y Chethan
 Registration Number : 212220230008
 */
 ```
