@@ -1,5 +1,5 @@
-# Ex.No:3 Create Your Own Content Providers to get Contacts details.
-
+# Ex.No: 3
+# Create Your Own Content Providers to get Contacts details.
 
 ## AIM:
 
@@ -25,7 +25,7 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 
