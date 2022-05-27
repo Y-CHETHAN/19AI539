@@ -33,7 +33,7 @@ Step 7: Save and run the application.
 /*
 Program to create your own content providers to get contacts details.
 Developed by         : Y Chethan
-Registeration Number : 212220230008
+Registration Number : 212220230008
 */
 ```
 #### MainActivity.java
@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## OUTPUT:
 
