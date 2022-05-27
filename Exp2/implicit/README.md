@@ -1,5 +1,4 @@
-# Ex.No: 2a
-# Implicit Intents
+# Ex.No: 2a Implicit Intents
 
 ## AIM:
 
