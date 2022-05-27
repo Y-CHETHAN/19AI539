@@ -1,5 +1,4 @@
-# Ex.No: 1 
-# To create a HelloWorld Activity using all lifecycles methods to display messages.
+# Ex.No: 1 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
 ## AIM:
 
@@ -24,6 +23,8 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
