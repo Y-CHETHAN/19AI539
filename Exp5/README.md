@@ -7,13 +7,13 @@ To develop a program to accept username and password from the end user using Tex
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min.required Artic Fox)
+Android Studio(Min.required Arctic Fox)
 
 ## ALGORITHM:
 
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as studentinfo and click Next. 
+Step 2: Then type the Application name as "studentinfo" and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to accept username and password from the end user.
-Developed by: Y Chethan
-Registeration Number : 212220230008
+Developed by        : Y Chethan
+Registration Number : 212220230008
 */
 ```
 ### MainActivity.java
@@ -191,7 +191,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 
 ![output1](https://user-images.githubusercontent.com/75234991/167671044-dfef8a06-2338-488d-aaf4-13f9101b2465.jpg)
+
 ![output2](https://user-images.githubusercontent.com/75234991/167671068-536b567e-10de-42b1-9d26-f02367438656.jpg)
 
 ## RESULT:
-Thus a Simple Android Application develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
+Thus a Simple Android Application to accept username and password from the end user using Text View and Edit Text and display personal information of the student using Android Studio is developed and executed successfully.
