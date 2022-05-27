@@ -6,13 +6,13 @@ To develop a program to create a first display screen of any search engine using
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min.required Artic Fox)
+Android Studio(Min.required Arctic Fox)
 
 ## ALGORITHM:
 
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as searchengine and click Next. 
+Step 2: Then type the Application name as "searchengine" and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create a display screen of any search engine.
-Developed by: Y Chethan
-Registeration Number : 212220230008
+Developed by        : Y Chethan
+Registration Number : 212220230008
 */
 ```
 ### MainActivity.java
@@ -103,4 +103,4 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://user-images.githubusercontent.com/75234991/169635114-e05f0f25-484e-4cb4-8b7d-1561b769e233.png)
 
 ## RESULT:
-Thus a Simple Android Application develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio is developed and executed successfully.
+Thus a Simple Android Application to create a first display screen of any search engine using AutoComplete TextView in Android Studio is developed and executed successfully.
