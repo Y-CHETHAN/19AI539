@@ -1,4 +1,5 @@
-# Ex.No:4 Design an android application to send SMS using Intent.
+# Ex.No: 4
+# Design an android application to send SMS using Intent.
 
 ## AIM:
 
