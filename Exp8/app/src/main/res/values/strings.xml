@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listofitemselect</string>
+    <string name="msg">Select your favourite programming languages</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="php">PHP</string>
+    <string name="cpp">CPP</string>
+    <string name="c">C</string>
+</resources>
