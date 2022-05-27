@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## OUTPUT:
 
