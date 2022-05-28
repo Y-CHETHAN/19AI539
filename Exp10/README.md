@@ -27,6 +27,8 @@ Step 6: Draw basic object details give in MainActivity file.
 
 Step 7: Save and run the application.
 
+<br><br><br><br>
+
 ## PROGRAM:
 ```
 /*
