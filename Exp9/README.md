@@ -1,5 +1,4 @@
-# Ex.No: 9
-# Develop a application to add animations: Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+# Ex.No: 9 Develop a application to add animations: Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
 
 ## AIM:
 
@@ -27,7 +26,7 @@ Step 7: Add animation operations in MainActivity file.
 
 Step 8: Save and run the application.
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
