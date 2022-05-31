@@ -1,4 +1,5 @@
-# Ex.No: 6 Build a program to create a first display screen of any search engine using Auto Complete Text View.
+# Ex.No: 6
+# Build a program to create a first display screen of any search engine using Auto Complete Text View.
 
 ## AIM:
 
@@ -24,7 +25,6 @@ Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
 ## PROGRAM:
 ```
 /*
