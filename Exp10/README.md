@@ -1,6 +1,4 @@
-
-# Ex.No: 10
-# Design an application that draws basic graphical primitives on the screen.
+# Ex.No: 10 Design an application that draws basic graphical primitives on the screen.
 
 
 ## AIM:
@@ -27,7 +25,7 @@ Step 6: Draw basic object details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
