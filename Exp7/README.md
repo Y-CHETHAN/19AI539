@@ -1,4 +1,5 @@
-# Ex.No: 7 Develop a simple calculator using android studio.
+# Ex.No: 7
+# Develop a simple calculator using android studio.
 
 ## AIM:
 
@@ -23,8 +24,6 @@ Step 5: Design layout using UI components in activity_main.xml.
 Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
