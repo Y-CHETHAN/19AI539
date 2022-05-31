@@ -27,7 +27,7 @@ Step 7: Add animation operations in MainActivity file.
 
 Step 8: Save and run the application.
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
