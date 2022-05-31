@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-<br><br><br><br>
 ### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -90,7 +89,6 @@ public class MainActivity extends AppCompatActivity {
         android:layout_marginTop="30dp"/>
 </RelativeLayout>
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/75234991/169632150-d0bcbbb8-dc53-49e1-b1bd-fb837358d9ea.png)
 
