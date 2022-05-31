@@ -1,5 +1,4 @@
-# Ex.No: 5
-# Develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student.
+# Ex.No: 5 Develop a program to accept username and password from the end user using Text View and Edit Text and display personal information of the student.
 
 
 ## AIM:
@@ -25,8 +24,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Accept username and password from the end user and the display information give in MainActivity file.
 
 Step 7: Save and run the application.
-
-<br><br><br>
 
 ## PROGRAM:
 ```
