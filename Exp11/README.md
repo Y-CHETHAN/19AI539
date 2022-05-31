@@ -1,4 +1,5 @@
-# Ex.No: 11 Develop an application to draw a shapes using 3D graphics with openGL ES.
+# Ex.No: 11
+# Develop an application to draw a shapes using 3D graphics with openGL ES.
 
 ## AIM:
 
@@ -25,8 +26,6 @@ Step 6: Create MyGLActivity and MyGLRenderer to add the code.
 Step 7: Define the shapes in Cube.java and Pyramid.java
 
 Step 8: Save and run the application.
-
-<br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
@@ -69,9 +68,6 @@ public class MyGLActivity extends AppCompatActivity {
     }
 }
 ```
-
-<br><br>
-
 #### MyGLRenderer.java
 ```
 package com.example.graphics;
