@@ -28,6 +28,13 @@ Step 7: Save and run the application.
 <br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
+```
+/*
+Program to create and design an android application that draws basic graphical primitives on the screen.
+Developed by        : Y Chethan
+Registration Number : 212220230008
+*/
+```
 ### MainActivity.java:
 ```
 package com.example.exno1;
@@ -105,7 +112,6 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-<br><br><br><br>
 ## OUTPUT:
 ![97e98103-6d57-4b4e-a9e6-5a36200ebded](https://user-images.githubusercontent.com/75234991/162582238-7b7185c0-e593-477f-b3dd-52deafb2c79d.jpg)
 
