@@ -28,13 +28,6 @@ Step 7: Save and run the application.
 <br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
-```
-/*
-Program to print the text “Hello World”.
-Developed by        : Y Chethan
-Registration Number : 212220230008
-*/
-```
 ### MainActivity.java:
 ```
 package com.example.exno1;
