@@ -35,7 +35,7 @@ Developed by        : Y Chethan
 Registration Number : 212220230008
 */
 ```
-#### MyGLActiviy.java
+### MyGLActiviy.java
 ```
 package com.example.graphics;
 
@@ -68,7 +68,7 @@ public class MyGLActivity extends AppCompatActivity {
     }
 }
 ```
-#### MyGLRenderer.java
+### MyGLRenderer.java
 ```
 package com.example.graphics;
 
@@ -139,7 +139,7 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
     }
 }
 ```
-#### Cube.java
+### Cube.java
 ```
 package com.example.graphics;
 
@@ -218,7 +218,7 @@ public class Cube {
     }
 }
 ```
-#### Pyramid.java
+### Pyramid.java
 ```
 package com.example.graphics;
 
@@ -289,7 +289,7 @@ public class Pyramid {
     }
 }
 ```
-#### AndroidManifest.xml
+### AndroidManifest.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
