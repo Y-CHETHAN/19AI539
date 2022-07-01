@@ -25,12 +25,10 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
-Program to create and design an android application that draws basic graphical primitives on the screen.
+Program to print the text "Hello World".
 Developed by        : Y Chethan
 Registration Number : 212220230008
 */
