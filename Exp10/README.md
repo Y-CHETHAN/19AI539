@@ -34,7 +34,7 @@ Developed by        : Y Chethan
 Registration Number : 212220230008
 */
 ```
-#### MainActivity.java
+### MainActivity.java
 ```
 package com.example.graphical;
 
@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-#### activity_main.xml
+### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout android:layout_height="match_parent"
