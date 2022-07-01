@@ -25,8 +25,6 @@ Step 6: Display factorial number using Explicit Intents in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 
 ```
@@ -37,7 +35,7 @@ Registration Number : 212220230008
 */
 ```
 
-#### MainActivity.java
+### MainActivity.java
 ```
 package com.example.exintent;
 
@@ -63,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-#### activity_main.xml
+### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -90,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
-#### MainActivity2.java
+### MainActivity2.java
 ```
 package com.example.exintent;
 
@@ -120,7 +118,7 @@ public class MainActivity2 extends AppCompatActivity {
     }
 }
 ```
-#### activity_main2.xml
+### activity_main2.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
