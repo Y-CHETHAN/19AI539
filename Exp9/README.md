@@ -35,7 +35,7 @@ Developed by        : Y Chethan
 Registration Number : 212220230008
 */
 ```
-#### MainActivity.java
+### MainActivity.java
 ```
 package com.example.androidanimation;
 
@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-#### activity_main.xml
+### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -204,7 +204,7 @@ public class MainActivity extends AppCompatActivity {
 
 </RelativeLayout>
 ```
-#### myanimation.xml
+### myanimation.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
@@ -244,7 +244,7 @@ public class MainActivity extends AppCompatActivity {
         android:duration="700" />
 </set>
 ```
-#### blink.xml
+### blink.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
@@ -256,7 +256,7 @@ public class MainActivity extends AppCompatActivity {
         android:repeatCount="infinite"/>
 </set>
 ```
-#### fade.xml
+### fade.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
@@ -275,7 +275,7 @@ public class MainActivity extends AppCompatActivity {
 
 </set>
 ```
-#### clockwise.xml
+### clockwise.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
@@ -298,7 +298,7 @@ public class MainActivity extends AppCompatActivity {
         </rotate>
         </set>
 ```
-#### zoom.xml
+### zoom.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
@@ -313,7 +313,7 @@ public class MainActivity extends AppCompatActivity {
         android:toYScale="0.0" />
 </set>
 ```
-#### slide.xml
+### slide.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
