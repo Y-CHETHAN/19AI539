@@ -25,8 +25,6 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 
 ```
@@ -36,7 +34,7 @@ Developed by        : Y Chethan
 Registration Number : 212220230008
 */
 ```
-#### MainActivity.java
+### MainActivity.java
 ```
 package com.example.contentprovider;
 
@@ -89,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-#### Activity_main.xml
+### Activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -112,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
         tools:ignore="UsingOnClickInXml" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-#### AndroidManifest.xml
+### AndroidManifest.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -141,9 +139,6 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 ```
-
-<br><br><br><br><br><br><br><br>
-
 ## OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/65499285/163918016-3edce2f0-6b8c-458f-81c8-5714085c0752.png)
