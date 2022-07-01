@@ -25,8 +25,6 @@ Step 6: Send SMS using Intent give in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 
 ```
@@ -67,8 +65,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
-<br><br><br>
 
 ### activity_main.xml
 ```
